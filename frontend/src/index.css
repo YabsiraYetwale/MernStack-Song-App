@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(241, 82, 34);
+    
+        background-image: url("/cov.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;   
+}
