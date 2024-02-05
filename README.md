@@ -18,7 +18,6 @@ imgUrl, genre, singer, and audio file.
 Delete Song: Users can remove a song from their library, 
 permanently deleting it from the app.
 
-              Audio Playback: 
-Users can listen to their uploaded songs directly within the app.
+Audio Playback: Users can listen to their uploaded songs directly within the app.
 
 
