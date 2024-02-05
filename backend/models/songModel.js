@@ -15,6 +15,6 @@ const songSchema = mongoose.Schema({
     },
 })
 
-var songModel = mongoose.model('PostSongMessage', songSchema);
+var songModel = mongoose.model('SongMessage', songSchema);
 
 export default songModel;
